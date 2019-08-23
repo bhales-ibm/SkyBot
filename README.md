@@ -1,4 +1,4 @@
-# easy-peasy-bot
+# SkyBot
 
 ## The story of a (Slack)bot
 
