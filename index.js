@@ -2,6 +2,7 @@
  * A Bot for Slack!
  */
 
+TOKEN=xoxb-2615465966-503505185927-NTVyrAvQg15NWaudaleMW6za
 
 /**
  * Define a function for initiating a conversation on installation
